@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Isabella's github stats](https://github-readme-stats.vercel.app/api?username=isadirio)
+![Isabella's github stats](https://github-readme-stats.vercel.app/api?username=isadirio&show_icons=true&theme=radical&hide_rank=false)
 <!--
 **isadirio/isadirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
