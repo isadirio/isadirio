@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-👩🏻‍💻 BI consultant at [Deloitte]([url](https://www.deloitte.com/it/it/about/story/facts-and-figures/about-deloitte-italy.html))
-👩🏻‍🎓 Studied Data Science at the [University of Trento]([url](https://corsi.unitn.it/en/data-science)), Italy
-💭 Currently learning about [deep learning]([url](https://www.coursera.org/programs/novartis-friends-family-z5org/specializations/deep-learning?authProvider=novartisglobal))!
+👩🏻‍💻 BI consultant at [Deloitte]([url](https://www.deloitte.com/it/it/about/story/facts-and-figures/about-deloitte-italy.html))<br>
+👩🏻‍🎓 Studied Data Science at the [University of Trento]([url](https://corsi.unitn.it/en/data-science)), Italy<br>
+💭 Currently learning about [deep learning]([url](https://www.coursera.org/programs/novartis-friends-family-z5org/specializations/deep-learning?authProvider=novartisglobal))!<br>
 
 ![Isabella's github stats](https://github-readme-stats.vercel.app/api?username=isadirio&show_icons=true&theme=github_dark&hide_rank=false)
 <!--
