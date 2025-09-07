@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 # 💫 About Me:
 👩🏻‍💻 BI consultant at Deloitte<br>👩🏻‍🎓 Studied Data Science at the University of Trento, Italy<br>💭 Currently learning about deep learning
 
